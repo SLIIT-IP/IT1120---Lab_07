@@ -39,8 +39,8 @@ Expected Output:
 
 **a)** Write a Java program to display the below figure:
 
-  <p align="center">
-    <img src="resources/media/image7.png" alt="Image description" style="width:50%; height:50%;">
+  <p align="left-align">
+    <img src="resources/media/image7.png" alt="Image description" style="width:25%; height:25%;">
   </p>
 
 Save the file inside '**Lab 7**' folder as: **ITxxxxxxxxLab7Q2A.java**  
@@ -54,8 +54,8 @@ Expected Output:
 
 **b)** Write a Java program to display numbers from 1 -- 5 and display the stars as shown below:
 
-  <p align="center">
-    <img src="resources/media/image8.png" alt="Image description" style="width:50%; height:50%;">
+  <p align="left-align">
+    <img src="resources/media/image8.png" alt="Image description" style="width:25%; height:25%;">
   </p>
 
 Save the file inside '**Lab 7**' folder as: **ITxxxxxxxxLab7Q2B.java**  
@@ -69,8 +69,8 @@ Expected Output:
 
   **c)** Write a Java program to display the following pattern:
 
-  <p align="center">
-    <img src="resources/media/image9.png" alt="Image description" style="width:50%; height:50%;">
+  <p align="left-align">
+    <img src="resources/media/image9.png" alt="Image description" style="width:25%; height:25%;">
   </p>
 
 Save the file inside '**Lab 7**' folder as: **ITxxxxxxxxLab7Q2C.java**  
